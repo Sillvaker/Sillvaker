@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Olá 👋, Meu Nome é David</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mega0985&label=Profile%20views&color=0e75b6&style=flat" alt="Sillvaker" /> </p>
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-1/756029510104907886.png" alt="Mega0985" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sillvaker&label=Profile%20views&color=0e75b6&style=flat" alt="Sillvaker" /> </p>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-1/756029510104907886.png" alt="Sillvaker" /> </p>
 <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sillvaker&theme=dark&hide_border=true"/> </p>
 
 ---
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ## Stats <img src= "https://cdn.discordapp.com/emojis/575371695746187314.png" alt='stats' width="35px">
 
-[![Monochromish's Stats](https://github-readme-stats.vercel.app/api?username=Mega0985&show_icons=true&theme=tokyonight)](https://github.com/Mega0985/github-readme-stats)
+[![Monochromish's Stats](https://github-readme-stats.vercel.app/api?username=Sillvaker&show_icons=true&theme=tokyonight)](https://github.com/Sillvaker/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mega0985&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sillvaker&theme=dracula" />
 
 ---
 
