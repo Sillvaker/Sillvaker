@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá 👋, Meu Nome é Mega</h1>
+<h1 align="center">Olá 👋, Meu Nome é David</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mega0985&label=Profile%20views&color=0e75b6&style=flat" alt="Mega0985" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mega0985&label=Profile%20views&color=0e75b6&style=flat" alt="Sillvaker" /> </p>
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-1/756029510104907886.png" alt="Mega0985" /> </p>
 <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mega0985&theme=dark&hide_border=true"/> </p>
 
