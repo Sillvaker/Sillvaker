@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 📫 Como chegar até mim: Mega 会#7992 or https://www.instagram.com/sillvaker/
+- 📫 Como chegar até mim: Mega 会#7992 or https://www.instagram.com/5illvaker/
 
 - ⚡ Atualmente trabalhando em um bot do discord
 
