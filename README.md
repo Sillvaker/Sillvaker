@@ -50,6 +50,6 @@ Here are some ideas to get you started:
   <summary>🗃 Recentes projetos</summary>
   
 <!--START_SECTION:activity-->
-1.⛩ Avatar (https://discord.gg/jbShNj87ZG)
+1.⛩ Atlanta (https://discord.gg/jbShNj87ZG)
 
 </details>
