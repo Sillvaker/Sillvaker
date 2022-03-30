@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 📫 Como chegar até mim: Mega 会#7992 or https://www.instagram.com/5ilvaker/
+- 📫 Como chegar até mim: <a src='https://github.com/Sillvaker'>Mega#9459</a> or https://www.instagram.com/5ilvaker/
 
 - ⚡ Atualmente trabalhando em um bot do discord
 
