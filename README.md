@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 Como chegar até mim: <a src='https://github.com/Sillvaker'>Mega#9459</a> or https://www.instagram.com/david.cheff/
 
-- ⚡ Atualmente trabalhando em um bot do discord
+- ⚡ Atualmente trabalhando com comunicação e estudando back-end
 
 ## Stats <img src= "https://cdn.discordapp.com/emojis/575371695746187314.png" alt='stats' width="35px">
 
